@@ -1,4 +1,16 @@
-# CPP-Quiz
-This is a CLI App of C++ Quiz. You can guess answer and if answer is right then your score will increase.
+<h1 align="center">
+          C++ Quiz ❓
+</h1>
 
-https://replit.com/@ishitakeshawani/Cquiz#index.js
+<div align="center">
+
+![Badge](https://img.shields.io/badge/Tech_Stack-Node-green)  ![Badge](https://img.shields.io/badge/NeogCamp-Marktwo-purple)
+
+</div>
+
+<h4 align="center">
+          Live Project : https://replit.com/@ishitakeshawani/Cquiz#index.js
+</h4>
+
+## Overview 🔨
+This is  a CLI app that check your knowledge of C++ 💻 .
